@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a616407a3306de4089b8340938e5552, type: 3}
+  m_Name: LocalDataCollection
+  m_EditorClassIdentifier: 
+  _inputsSettings: {fileID: 11400000, guid: c7c8ee0012994d04b94255fb92228f41, type: 2}
+  _scenesSettings: {fileID: 11400000, guid: 43680cf4df947b042ada4f4fb0185a5a, type: 2}
+  _mainCanvasSettings: {fileID: 11400000, guid: bb42eed6e0092c24eba3a0ac7274fe1c, type: 2}
