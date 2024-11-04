@@ -1,0 +1,16 @@
+{
+    "name": "com.berkun5.kuciframework",
+    "version": "1.0.0",
+    "displayName": "Kuci Framework",
+    "description": "A framework for Unity projects with core functionality.",
+    "unity": "2021.3",
+    "author": {
+      "name": "Berk Unal",
+      "email": "berk.unal.dev@gmail.com",
+      "url": "https://github.com/berkun5"
+    },
+    "dependencies": {
+      "com.unity.inputsystem": "1.x"
+    }
+  }
+  
