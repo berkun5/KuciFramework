@@ -1,0 +1,1 @@
+I have not decided the folder structure for the Editor folder. Please do not edit without asking.
